@@ -1,0 +1,22 @@
+{
+  "name": "prototyping",
+  "version": "1.0.0",
+  "description": "prototype sass compiler",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Leisinger",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {
+    "gulp-connect-php": "^1.0.3"
+  }
+}
