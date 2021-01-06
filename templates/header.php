@@ -1,25 +1,13 @@
-<?php
-  function isLocalhost($whitelist = ['127.0.0.1', '::1']) {
-    return in_array($_SERVER['REMOTE_ADDR'], $whitelist);
-  }
-?>
-
-
-<!doctype html>
-
-<html lang="de">
-<head>
-  <meta charset="utf-8">
-  <title>Prototyping SoaPatrickNine</title>
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  <?php if(isLocalhost()): ?>
-    <link rel="stylesheet" href="../assets/css/style.css">
-  <?php else: ?>
-    <link rel="stylesheet" href="../assets/css/style.css<?php echo filemtime('assets/css/style.css') ?>">
-  <?php endif; ?>
-</head>
-
-<body>
+<div class="wrapper">
+  <div class="navigation d-flex align-items-end p-5">
+    <a class="home-link" href="../index.php"></a>
+    <ul class="nav flex-column">
+      <li class="nav-item"><a class="nav-link" href="01-home.php">SP</a></li>
+      <li class="nav-item"><a class="nav-link" href="10-box_home.php">Box</a></a></li>
+      <li class="nav-item"><a class="nav-link" href="20-factory_home.php">Factory</a></li>
+      <li class="nav-item"><a class="nav-link" href="30-lab_home.php">Lab</a></li>
+      <li class="nav-item"><a class="nav-link" href="81-page_patrick.php">Patrick</a></li>
+      <li class="nav-item"><a class="nav-link" href="82-page_privacy.php">Privacy</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Search</a></li>
+    </ul>
+  </div>

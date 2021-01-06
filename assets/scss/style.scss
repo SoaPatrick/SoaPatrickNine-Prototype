@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 200px auto;
+  height: 100%;
+
+  .main {
+    margin: 2rem;
+  }
+}
+
+.navigation {
+  background: var(--bs-light);
+  border: 1px solid #ddd;
+
+  .home-link {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    text-decoration: none;
+    width: 10px;
+    height: 10px;
+    background: var(--bs-primary);
+    border-radius: 50%;
+  }
+}

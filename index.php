@@ -1,4 +1,4 @@
-<?php include 'templates/header.php';?>
+<?php include 'templates/head.php';?>
 
 <div class="container my-5">
   <h1>Prototype Index</h1>
@@ -20,4 +20,4 @@
   ?>
 </div>
 
-<?php include 'templates/footer.php';?>
+<?php include 'templates/foot.php';?>

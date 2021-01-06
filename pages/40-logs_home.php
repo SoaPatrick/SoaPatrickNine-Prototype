@@ -1,7 +1,13 @@
-<?php include '../templates/header.php'; ?>
+<?php
+  include '../templates/head.php';
+  include '../templates/header.php';
+?>
 
-<div class="container my-5">
+<div class="main">
   <h1>Logs home</h1>
 </div>
 
-<?php include '../templates/footer.php'; ?>
+<?php
+  include '../templates/footer.php';
+  include '../templates/foot.php';
+?>
