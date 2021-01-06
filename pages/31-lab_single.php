@@ -1,7 +1,7 @@
 <?php include '../templates/header.php'; ?>
 
 <div class="container my-5">
-  <h1>SoaPatrickNine</h1>
+  <h1>Lab single</h1>
 </div>
 
 <?php include '../templates/footer.php'; ?>
