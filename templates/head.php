@@ -11,4 +11,5 @@
 </head>
 
 <body>
+<a class="home-link" href="../index.php"></a>
 

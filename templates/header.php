@@ -1,6 +1,5 @@
 <div class="wrapper">
   <div class="navigation d-flex align-items-end p-5">
-    <a class="home-link" href="../index.php"></a>
     <ul class="nav flex-column">
       <li class="nav-item"><a class="nav-link" href="01-home.php">SP</a></li>
       <li class="nav-item"><a class="nav-link" href="10-box_home.php">Box</a></a></li>
