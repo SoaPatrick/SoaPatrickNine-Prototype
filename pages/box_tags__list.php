@@ -6,9 +6,9 @@
 <div class="main">
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="01-home.php">Home</a></li>
-      <li class="breadcrumb-item"><a href="10-box_home.php">Box</a></li>
-      <li class="breadcrumb-item"><a href="14-box_tags__home.php">Tags</a></li>
+      <li class="breadcrumb-item"><a href="home.php">Home</a></li>
+      <li class="breadcrumb-item"><a href="box_home.php">Box</a></li>
+      <li class="breadcrumb-item"><a href="box_tags__home.php">Tags</a></li>
       <li class="breadcrumb-item active" aria-current="page">Tag Name</li>
     </ol>
   </nav>

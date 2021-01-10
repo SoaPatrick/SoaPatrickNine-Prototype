@@ -16,10 +16,17 @@ body {
 .navigation {
   background: var(--bs-light);
   border: 1px solid #ddd;
+
+  ul {
+    position: fixed;
+    bottom: 1rem;
+    left: 2rem;
+    z-index: 1;
+  }
 }
 
 .home-link {
-  position: absolute;
+  position: fixed;
   top: 5px;
   left: 5px;
   text-decoration: none;
