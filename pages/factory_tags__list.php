@@ -3,7 +3,7 @@
   include '../templates/header.php';
 ?>
 
-<div class="main">
+<div class="main main--wide">
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="home.php">Home</a></li>
