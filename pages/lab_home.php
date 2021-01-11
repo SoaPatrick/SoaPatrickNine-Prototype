@@ -25,6 +25,7 @@
       }
     ?>
   </div>
+  <?php include '../snippets/navigation_lab__home.php'; ?>
 </div>
 
 <?php

@@ -12,6 +12,21 @@
     </ol>
   </nav>
   <?php include '../snippets/lab__full.php'; ?>
+  <h2 class="mt-5">Related Posts</h2>
+  <?php
+    for ($posts = 1; $posts <= 3; $posts++) {
+      include '../snippets/blog-post__list.php';
+    }
+  ?>
+  <?php include '../snippets/navigation_lab__single.php'; ?>
+  <h2 class="mt-5">Related Lab Items</h2>
+  <div class="d-flex flex-wrap">
+    <?php
+      for ($posts = 1; $posts <= 4; $posts++) {
+        include '../snippets/lab__list.php';
+      }
+    ?>
+  </div>
 </div>
 
 <?php

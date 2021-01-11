@@ -7,6 +7,10 @@
       <a href="../pages/box_tags__list.php">Tag Name</a>,
       <a href="../pages/box_tags__list.php">Tag Name</a>
     </div>
+    <div>
+      <a href="../pages/factory_single.php">Factory project</a>,
+      <a href="../pages/lab_single.php">Lab project</a>
+    </div>
   </header>
 
   <div>

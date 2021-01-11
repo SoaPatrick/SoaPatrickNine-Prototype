@@ -18,6 +18,7 @@
       include '../snippets/blog-post__list.php';
     }
   ?>
+  <?php include '../snippets/navigation_box__archive.php'; ?>
 </div>
 
 <?php

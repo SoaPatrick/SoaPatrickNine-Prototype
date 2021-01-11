@@ -16,6 +16,7 @@
       include '../snippets/blog-post__teaser.php';
     }
   ?>
+  <?php include '../snippets/navigation_box__home.php'; ?>
 </div>
 
 <?php
