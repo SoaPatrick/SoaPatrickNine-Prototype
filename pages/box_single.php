@@ -15,14 +15,15 @@
   </nav>
   <?php include '../snippets/blog-post__full.php'; ?>
   <?php include '../snippets/navigation_box__single.php'; ?>
+</div>
+<aside class="related">
   <h2 class="mt-5">Related Posts</h2>
   <?php
     for ($posts = 1; $posts <= 3; $posts++) {
       include '../snippets/blog-post__list.php';
     }
   ?>
-</div>
-
+</aside>
 <?php
   include '../templates/footer.php';
   include '../templates/foot.php';

@@ -4,7 +4,7 @@
 ?>
 
 <div class="main">
-<nav aria-label="breadcrumb">
+  <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="home.php">Home</a></li>
       <li class="breadcrumb-item"><a href="lab_home.php">Lab</a></li>
@@ -19,6 +19,8 @@
     }
   ?>
   <?php include '../snippets/navigation_lab__single.php'; ?>
+</div>
+<aside class="related">
   <h2 class="mt-5">Related Lab Items</h2>
   <div class="d-flex flex-wrap">
     <?php
@@ -27,8 +29,7 @@
       }
     ?>
   </div>
-</div>
-
+</aside>
 <?php
   include '../templates/footer.php';
   include '../templates/foot.php';

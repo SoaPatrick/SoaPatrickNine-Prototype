@@ -19,15 +19,17 @@
     }
   ?>
   <?php include '../snippets/navigation_factory__single.php'; ?>
+</div>
+<aside class="related">
   <h2 class="mt-5">Related Factory Items</h2>
-  <div class="d-flex flex-wrap">
+  <div class="d-grid">
     <?php
       for ($posts = 1; $posts <= 4; $posts++) {
         include '../snippets/factory__list.php';
       }
     ?>
   </div>
-</div>
+</aside>
 
 <?php
   include '../templates/footer.php';
