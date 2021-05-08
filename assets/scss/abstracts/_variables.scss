@@ -1,10 +1,16 @@
 // Colors
-$color__red: #cf3a3a;
 $color__white: #ffffff;
 $color__black: #000000;
 $color__gray--dark: #222222;
 $color__gray--darker: #1c1c1c;
 $color__gray--light: #eeeeee;
+
+$color__amber: #ffb300;
+$color__red: #cf3a3a;
+$color__pink: #ec407a;
+$color__purple: #ab47bc;
+$color__blue: #28aae2;
+$color__green: #348236;
 
 
 // Font-Family
@@ -98,4 +104,11 @@ $breakpoints: (
   --color__text: #{$color__white};
   --color__highlight: #{$color__white};  
   --color__body: #{$color__red};  
+}
+
+
+[data-theme="pink"] {
+  --color__text: #{$color__white};
+  --color__body: #{$color__gray--dark};  
+  --color__highlight: #{$color__pink};    
 }

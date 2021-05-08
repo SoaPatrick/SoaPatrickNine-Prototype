@@ -1,4 +1,6 @@
 <?php
+  $theme = 'pink';
+
   include '../templates/head.php';
   include '../templates/header.php';
 ?>

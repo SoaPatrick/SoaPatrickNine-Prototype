@@ -10,6 +10,6 @@
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
-<body data-theme="light">
+<body data-theme="<?php echo $theme; ?>">
 <a class="home-link" href="../index.php"></a>
 
