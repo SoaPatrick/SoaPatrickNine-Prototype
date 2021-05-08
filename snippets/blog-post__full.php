@@ -19,8 +19,8 @@
     <p>And with that in mind, here are a few things I try to be more focused on.</p>
     <h2>SoaPatrickNine</h2>
     <p>What? A new version already, isn’t SP8 rather new? Well yeah, but I keep tinkering with stuff here constantly and the rule so far has been a new version every year 8 months or so. The thing is, I plan on changing quite a few things, SP8 was a new step and I want to continue this direction and go even further. So I plan on having a real landing page, I plan on incorporating Blender renderings, and I plan on having a Soap Lab section.</p>
-    <figure class="wp-block-image alignwide">
-      <img loading="lazy" src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1619346349" alt="" class="wp-image-5821" srcset="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg 1500w, http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-750x314.jpg 750w" sizes="(max-width: 1500px) 100vw, 1500px" width="1500" height="628">
+    <figure class="wp-block-image alignfull">
+      <img loading="lazy" src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1619346394" alt="early design idea for SoaPatrickEight" width="1500" height="628">      
       <figcaption>early design idea for SoaPatrickEight</figcaption>
     </figure>
     <p>Now I don’t know the timeframe for all this, but I will hopefully start with sketches and prototypes soon. </p>
