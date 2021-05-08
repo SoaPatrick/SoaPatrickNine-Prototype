@@ -16,5 +16,5 @@
         $size = '800x300';
     }
   ?>  
-  <img src="http://placehold.it/<?php echo $size; ?>?text=Lab+item">
+  <img src="https://via.placeholder.com/<?php echo $size; ?>?text=Lab+item">
 </article>

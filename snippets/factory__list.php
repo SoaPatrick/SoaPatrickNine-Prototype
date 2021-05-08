@@ -16,7 +16,7 @@
   </header>
   <main>          
     <figure>
-      <img src="http://placehold.it/800x450?text=Factory+Item" data-ll-status="loaded" width="1500" height="1000">
+      <img src="https://via.placeholder.com/800x450?text=Factory+Item" data-ll-status="loaded" width="1500" height="1000">
     </figure>      
   </main>      
   <footer>

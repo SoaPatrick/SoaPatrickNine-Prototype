@@ -14,7 +14,7 @@
   <main>
     <figure>
       <a href="#">     
-        <img src="http://placehold.it/800x450?text=Lab+Item">
+        <img src="https://via.placeholder.com/800x450?text=Lab+Item">
       </a>
       <figcaption>this is a caption to see if it is shown</figcaption>
     </figure>    
