@@ -1,6 +1,6 @@
 <article>
   <?php
-    $number = rand(1,4);
+    $number = rand(1,6);
     $size;
     switch ($number) {
       case "1":
@@ -12,6 +12,12 @@
       case "3":
         $size = '800x500';
         break;
+      case "4":
+        $size = '600x800';
+        break;
+      case "5":
+        $size = '500x800';
+        break;                 
       default:
         $size = '800x300';
     }

@@ -17,10 +17,10 @@
       </svg>
     </a>
     <a href="box_home.php" aria-label="Box" class="navigation__link">
-      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-        <path class="secondary" d="M512 224v240a48 48 0 0 1-48 48H48a48 48 0 0 1-48-48V224z"></path>
-        <path class="primary" d="M53.1 32.8L2.5 184.6c-.8 2.4-.8 4.9-1.2 7.4H240V0H98.6a47.87 47.87 0 0 0-45.5 32.8zm456.4 151.8L458.9 32.8A47.87 47.87 0 0 0 413.4 0H272v192h238.7c-.4-2.5-.4-5-1.2-7.4z"></path>
-      </svg>
+      <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+        <path class="secondary"  d="M439 254.14L576 215v178a32.07 32.07 0 0 1-24.2 31l-216.4 54.1a65 65 0 0 1-31 0L88.24 424A31.9 31.9 0 0 1 64 393V215l137 39.2a46 46 0 0 0 13.3 1.9 48.64 48.64 0 0 0 41.5-23.5L320 126l64.3 106.6a48.47 48.47 0 0 0 41.4 23.4 46 46 0 0 0 13.3-1.86z"></path>
+        <path class="primary" d="M638.34 143.84L586.84 41a16.33 16.33 0 0 0-16.7-8.9L320 64l91.7 152.1a16.44 16.44 0 0 0 18.5 7.3l197.9-56.5a16.47 16.47 0 0 0 10.24-23.06zM53.24 41L1.74 143.84a16.3 16.3 0 0 0 10.1 23l197.9 56.5a16.44 16.44 0 0 0 18.5-7.3L320 64 69.84 32.14A16.34 16.34 0 0 0 53.24 41z"></path>
+      </svg>     
       <span>Box</span>
     </a>
     <a href="lab_home.php" aria-label="Lab" class="navigation__link">

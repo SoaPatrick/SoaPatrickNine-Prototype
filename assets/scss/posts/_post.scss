@@ -57,6 +57,23 @@
       width: 33%;
       height: auto;
     }
+
+    &--section {
+      background: transparent;
+      color: var(--color__highlight);
+
+      svg {
+        width: 80%;
+      }
+
+      .primary {
+        fill: var(--color__highlight);
+      }
+
+      .secondardy {
+        fill: var(--color__text);
+      }        
+    }    
   }
 
   &__meta {
