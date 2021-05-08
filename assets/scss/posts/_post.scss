@@ -6,6 +6,10 @@
   position: relative;
   margin: 4rem 0;
 
+  &:last-child {
+    margin-bottom: 0;
+  }
+
   header,
   footer {
     max-width: $alignwide;
@@ -35,7 +39,7 @@
     height: 2rem;
     margin-bottom: .5rem;
 
-    @include mq(small) {
+    @include mq(tiny) {
       position: absolute;
       margin: 0;  
       width: calc(#{$marginal-width} - 1rem);
@@ -103,6 +107,7 @@
 
     .more-link {
       font-family: $font-family__heading;
+      white-space: nowrap;
     }
   }
 }

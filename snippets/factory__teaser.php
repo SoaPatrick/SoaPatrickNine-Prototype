@@ -13,5 +13,5 @@
 ?>  
 
 <article class="<?php echo $class; ?>">
-  <a href="../pages/factory_single.php"><img src="http://placehold.it/<?php echo $size; ?>?text=Factory+Item"></a>
+  <a href="../pages/factory_single.php" class="img-link"><img src="http://placehold.it/<?php echo $size; ?>?text=Factory+Item"></a>
 </article>

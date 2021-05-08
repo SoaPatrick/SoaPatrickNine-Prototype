@@ -13,23 +13,29 @@
   
   <?php include '../snippets/factory__full.php'; ?>
   <?php include '../snippets/navigation_factory__single.php'; ?>  
-  <h2>Related Posts</h2>
-  <?php
-    for ($posts = 1; $posts <= 3; $posts++) {
-      include '../snippets/blog-post__list.php';
-    }
-  ?>
-</div>
-<aside>
-  <h2>Related Factory Items</h2>
-  <div class="tiles-grid">
+  <aside class="post">  
+    <header>
+      <h1>Related Posts</h1>
+    </header>
     <?php
-      for ($posts = 1; $posts <= 4; $posts++) {
-        include '../snippets/factory__teaser.php';
+      for ($posts = 1; $posts <= 3; $posts++) {
+        include '../snippets/blog-post__list.php';
       }
     ?>
-  </div>
-</aside>
+  </aside>
+  <aside class="post">
+    <header>
+      <h1>Related Factory Items</h1>
+    </header>
+    <div class="tiles-grid">
+      <?php
+        for ($posts = 1; $posts <= 4; $posts++) {
+          include '../snippets/factory__teaser.php';
+        }
+      ?>
+    </div>
+  </aside>    
+</div>
 
 <?php
   include '../templates/footer.php';

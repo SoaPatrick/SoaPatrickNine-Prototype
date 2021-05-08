@@ -17,7 +17,7 @@ figure {
   &.wp-block-image {
 
     &.alignfull {
-      @include mq(small) {
+      @include mq(tiny) {
         max-width: calc(#{$alignwide} + #{$marginal-width});
         margin-left: calc(#{$marginal-width} * -1);
       }
@@ -28,7 +28,7 @@ figure {
       }
 
       figcaption {
-        @include mq(small) {
+        @include mq(tiny) {
           margin-left: #{$marginal-width};
         }        
 

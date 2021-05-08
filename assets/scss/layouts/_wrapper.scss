@@ -9,7 +9,7 @@
   margin-right: var(--margin__body);
   margin-left: calc(var(--margin__body) + var(--width__navbar) + 2 * var(--margin__body));  
 
-  @include mq(small) {
+  @include mq(tiny) {
     padding-left: $marginal-width; 
   }
 
