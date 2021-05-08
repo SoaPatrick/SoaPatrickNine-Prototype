@@ -1,4 +1,6 @@
 <?php
+  $theme = 'black';
+
   include '../templates/head.php';
   include '../templates/header.php';
 ?>

@@ -1,5 +1,5 @@
 <?php
-  $theme = 'pink';
+  $theme = 'darkpink';
 
   include '../templates/head.php';
   include '../templates/header.php';
