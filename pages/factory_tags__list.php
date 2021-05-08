@@ -4,25 +4,29 @@
 ?>
 
 <div class="main main--wide">
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="home.php">Home</a></li>
-      <li class="breadcrumb-item"><a href="factory_home.php">Factory</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Tag Name</li>
-    </ol>
+
+  <nav aria-label="breadcrumb" class="breadcrumbs">
+    <span class="breadcrumbs__item breadcrumbs__item--last">Tag Name</span>
+    <span class="breadcrumbs__item"><a href="factory_home.php">Factory</a></span>
+    <span class="breadcrumbs__item"><a href="home.php">Home</a></span>
   </nav>
-  <h1 class="my-5">Tag Name</h1>
-  <nav class="nav nav-pills mb-3">
+  
+  <section class="post">
+    <header>
+      <h1>Tag Name</h1>
+    </header>
+  </section>
+  <nav class="tags">
     <?php
       for ($posts = 1; $posts <= 8; $posts++) { ?>
-        <a href="factory_tags__list.php" class="nav-link<?php if ($posts == 3) { ?> active<?php } ?>">Tag Name</a>
+        <a href="factory_tags__list.php" class="<?php if ($posts == 3) { ?> active<?php } ?>">Tag Name</a>
       <?php }
     ?>
   </nav>
-  <div class="d-flex flex-wrap">
+  <div class="tiles-grid">
     <?php
       for ($posts = 1; $posts <= 5; $posts++) {
-        include '../snippets/factory__list.php';
+        include '../snippets/factory__teaser.php';
       }
     ?>
   </div>

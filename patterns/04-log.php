@@ -2,7 +2,7 @@
   include '../templates/head.php';
 ?>
 
-<div class="container my-5">
+<div class="wrapper">
   <h1>Log Patterns</h1>
 </div>
 

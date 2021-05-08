@@ -1,12 +1,20 @@
-<article class="my-5">
-  <a href="../pages/lab_single.php" class="me-4"><img src="http://placehold.it/250x250?text=Lab+item" class="img-fluid"></a>
-  <header>
-    <h1><a href="../pages/lab_single.php">Blender Test Rendering</a></h1>
-    <div><a href="../pages/lab_single.php">March 10, 2020</a></div>
-    <div>
-      <a href="../pages/lab_tags__list.php">Tag Name</a>,
-      <a href="../pages/lab_tags__list.php">Tag Name</a>,
-      <a href="../pages/lab_tags__list.php">Tag Name</a>
-    </div>
-  </header>
+<article>
+  <?php
+    $number = rand(1,4);
+    $size;
+    switch ($number) {
+      case "1":
+        $size = '800x800';
+        break;
+      case "2":
+        $size = '800x600';
+        break;
+      case "3":
+        $size = '800x500';
+        break;
+      default:
+        $size = '800x300';
+    }
+  ?>  
+  <img src="http://placehold.it/<?php echo $size; ?>?text=Lab+item">
 </article>

@@ -1,12 +1,17 @@
 <?php include 'templates/head.php';?>
 
-<div class="container my-5">
+<div class="wrapper">
   <h1>Prototype Index</h1>
 
-  <h5 class="mt-5">Pages</h5>
-  <a class="list-group-item list-group-item-action" href="pages/home.php">Home</a>
+  <h5>Pages</h5>
+  <ul>
+    <li>
+      <a href="pages/home.php">Home</a>
+    </li>
+  </ul>
 
   <h5 class="mt-5">Patterns</h5>
+  <ul>
   <?php
     $files = array();
     $dir = opendir('patterns/'); // open the cwd..also do an err check.
@@ -21,9 +26,10 @@
     // print.
     foreach($files as $file) {
       $filename = substr(basename($file, '.php'),3);
-      echo '<a class="list-group-item list-group-item-action" href="patterns/'. $file .'">'. $filename .'</a>';
+      echo '<li><a href="patterns/'. $file .'">'. $filename .'</a></li>';
     }
   ?>
+  </ul>
 </div>
 
 <?php include 'templates/foot.php';?>

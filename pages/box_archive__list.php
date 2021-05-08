@@ -4,15 +4,19 @@
 ?>
 
 <div class="main">
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="home.php">Home</a></li>
-      <li class="breadcrumb-item"><a href="box_home.php">Box</a></li>
-      <li class="breadcrumb-item"><a href="box_archive__home.php">Storage</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Year Month</li>
-    </ol>
+
+  <nav aria-label="breadcrumb" class="breadcrumbs">
+    <span class="breadcrumbs__item breadcrumbs__item--last">Year Month</span>
+    <span class="breadcrumbs__item"><a href="box_archive__home.php">Storage</a></span>
+    <span class="breadcrumbs__item"><a href="box_home.php">Box</a></span>
+    <span class="breadcrumbs__item"><a href="home.php">Home</a></span>
   </nav>
-  <h1 class="my-5">Year Month</h1>
+
+  <section class="post">
+    <header>
+      <h1>Year Month</h1>
+    </header>
+  </section>
   <?php
     for ($posts = 1; $posts <= 20; $posts++) {
       include '../snippets/blog-post__list.php';

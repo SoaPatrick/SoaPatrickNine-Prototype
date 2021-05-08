@@ -1,4 +1,4 @@
-<div class="d-flex justify-content-between my-5">
-  <a href="box_single.php" class="btn btn-primary">Previous Post</a>
-  <a href="box_single.php" class="btn btn-primary">Next Post</a>
-</div>
+<nav class="post-navigation">
+  <a href="box_single.php">&larr; Previous Post</a>
+  <a href="box_single.php">Next Post &rarr;</a>
+</nav>

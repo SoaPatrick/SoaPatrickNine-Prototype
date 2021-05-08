@@ -1,0 +1,109 @@
+/*------------------------------------*\
+  #Navigation
+\*------------------------------------*/
+
+.navigation {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  &__link {
+    border: 0;
+    color: var(--color__text);
+    font-family: $font-family__heading;
+    font-size: $font-size__h4;
+    padding: .75rem 0;
+    position: relative;
+    left: 0;
+    transition: all 0.25s ease-in-out;
+    cursor: pointer;
+
+    @include mq(medium) {
+      padding: .25rem 0;
+    }      
+    
+    &.active {
+      color: var(--color__highlight);
+    }
+
+    &:hover,
+    &:focus {
+      text-decoration: none;
+      border: 0;
+    }
+
+    &:focus {
+      outline: 3px dotted var(--color__highlight);
+      outline-offset: -3px;
+    }  
+
+    @include mq(medium) {    
+      &:not(.navigation__link--sp):before {
+        content: "Soap";
+        color: var(--color__highlight);
+        position: absolute;
+        z-index: -1;
+        left: 0;
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out;
+      }
+
+      &:not(.navigation__link--sp):hover {
+        left: -1rem;
+        padding-left: 2.35rem;
+        color: var(--color__text);
+
+        &:before {
+          transition: opacity 0.25s ease-in-out;
+          opacity: 1;
+        }
+      } 
+    }     
+
+    svg {
+      width: 1rem;
+      height: 1rem;
+
+      @include mq(medium) {
+        display: none;
+      }
+
+      .primary {
+        fill: var(--color__highlight);
+      }
+
+      .secondardy {
+        fill: var(--color__text);
+      }      
+    } 
+    
+    span {
+      display: none;
+
+      @include mq(medium) {
+        display: inline-block
+      }         
+    }  
+
+    &--sp {
+      margin-bottom: .5rem;
+      color: var(--color__highlight);
+
+      &:hover,
+      &:focus {
+        color: var(--color__text);
+      }      
+
+      svg {
+        display: block;
+        height: 1.25rem;
+        width: auto;
+        transition: fill 0.25s ease-in-out;     
+
+        @include mq(medium) {
+          height: 3rem;
+        }           
+      }
+    }   
+  }
+}

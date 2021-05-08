@@ -1,0 +1,108 @@
+/*------------------------------------*\
+  #Post
+\*------------------------------------*/
+
+.post {
+  position: relative;
+  margin: 4rem 0;
+
+  header,
+  footer {
+    max-width: $alignwide;
+  }
+
+  main {
+    > * {
+      max-width: $aligncontent;
+    }
+
+    > .alignwide {
+      max-width: $alignwide;
+    }
+
+    > .alignfull {
+      max-width: $alignfull;
+    }
+  }
+  
+  &__icon {
+    background: var(--color__highlight);
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    color: $color__white;
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: .5rem;
+
+    @include mq(small) {
+      position: absolute;
+      margin: 0;  
+      width: calc(#{$marginal-width} - 1rem);
+      height: calc(#{$marginal-width} - 1rem);
+      left: calc(#{$marginal-width} * -1);
+    }
+    
+    @include mq(medium) {
+      width: calc(#{$marginal-width--medium} - 2rem);
+      height: calc(#{$marginal-width--medium} - 2rem);
+      left: calc(#{$marginal-width--medium} * -1);
+    }
+
+    svg {
+      width: 33%;
+      height: auto;
+    }
+  }
+
+  &__meta {
+    font-size: $font-size__smaller;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    opacity: .7;
+  }
+
+  h1 {
+    margin: .5rem 0 2rem;
+    font-size: clamp(2rem, 10vw, 3rem);
+
+    a {
+      color: var(--color__text);
+      border: 0;
+      padding: 0;   
+      
+      &:hover {
+        color: var(--color__text);
+        border: 0;        
+        text-decoration: none;
+        background-repeat: no-repeat;
+        background-size: 100% 2px;
+        background-position: center bottom 15%;
+        background-origin: padding-box;
+        text-shadow: 1px 2px var(--color__body), 2px 2px var(--color__body), 3px 2px var(--color__body), -1px 2px var(--color__body), -2px 2px var(--color__body), -3px 2px var(--color__body);
+        background-image: linear-gradient(var(--color__text), var(--color__text));     
+      }
+    }
+  }
+
+  &--list {
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: .5rem;
+    }
+
+    header,
+    footer,
+    main > * {
+      max-width: $aligncontent;
+    } 
+    
+    .img-link {
+      margin: 1rem 0;
+    }
+
+    .more-link {
+      font-family: $font-family__heading;
+    }
+  }
+}

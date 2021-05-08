@@ -1,0 +1,26 @@
+/*------------------------------------*\
+  #Tags
+\*------------------------------------*/
+
+.tags {
+  font-size: $font-size__small;
+  a {
+    display: inline-block;
+    position: relative;
+    margin: .5rem 0;
+    margin-right: .5rem;
+
+    &.active {
+      color: var(--color__text);
+    }
+    
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &:before {
+      content: "#";
+      color: var(--color__text);
+    }
+  }
+}

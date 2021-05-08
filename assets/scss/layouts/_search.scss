@@ -1,0 +1,36 @@
+/*------------------------------------*\
+  #Search
+\*------------------------------------*/
+
+.site-search {
+  background: var(--color__highlight);
+  overflow: hidden;
+  transition: max-height 0.25s ease-in-out;    
+  max-height: 0;
+  
+  &.open {
+    max-height: 800px;
+  }  
+
+  form {
+    padding: 4rem 1rem;    
+
+    @include mq(medium) {
+      padding: 4rem 2rem;    
+    }          
+  }  
+
+  input {
+    width: 100%;
+    background: rgba($color__black,.1);
+    border-radius: 3rem;
+    font-size: 1.5rem;
+    padding: .75rem 1.5rem;
+    font-weight: 400;
+
+    &::-webkit-input-placeholde,
+    &::-moz-placeholder {
+      color: rgba($color__black,.5);
+    }
+  }
+}
