@@ -12,6 +12,9 @@
 @import "layouts/__layouts-dir";
 
 //Posts
+@import "components/__components-dir";
+
+//Posts
 @import "posts/__posts-dir";
 
 //Gutenberg
@@ -60,4 +63,55 @@
       padding: .15rem 0;
     }
   }
+}
+
+/*------------------------------------*\
+  #Section/Site
+\*------------------------------------*/
+
+.section,
+.site {
+  > header {
+    position: relative;
+    margin-top: 4rem;
+    max-width: $alignwide;
+
+    h1 {
+      margin: 0;      
+      font-size: clamp(2rem, 10vw, 3rem);     
+    }
+  }
+
+  &__content {
+    > p {
+      max-width: $aligncontent;
+    }
+  }
+}
+
+.section {
+  margin: 4rem 0;
+}
+
+/*------------------------------------*\
+  #Box Sub-Navigation
+\*------------------------------------*/
+
+.sub-navigation {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  a {
+    padding: .25rem 0;
+  }
+}
+
+
+.alignwide {
+  max-width: $alignwide;
+}
+
+.alignfull {
+  max-width: $alignfull;
 }

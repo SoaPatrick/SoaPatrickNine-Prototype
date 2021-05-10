@@ -3,7 +3,7 @@
   include '../templates/header.php';
 ?>
 
-<div class="main">
+<main class="global-main site">
 
   <nav aria-label="breadcrumb" class="breadcrumbs">
     <span class="breadcrumbs__item breadcrumbs__item--last">Search</span>
@@ -21,7 +21,7 @@
     }
   ?>
   <?php include '../snippets/navigation_box__home.php'; ?>  
-</div>
+</main>
 
 <?php
   include '../templates/footer.php';

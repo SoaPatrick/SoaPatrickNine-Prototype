@@ -3,7 +3,7 @@
   include '../templates/header.php';
 ?>
 
-<div class="main">
+<main class="global-main site">
 
   <nav aria-label="breadcrumb" class="breadcrumbs">
     <span class="breadcrumbs__item breadcrumbs__item--last">Factory Title</span>
@@ -27,7 +27,7 @@
     <header>
       <h1>Related Factory Items</h1>
     </header>
-    <div class="tiles-grid">
+    <div class="four-grid alignwide">
       <?php
         for ($posts = 1; $posts <= 4; $posts++) {
           include '../snippets/factory__teaser.php';
@@ -35,7 +35,7 @@
       ?>
     </div>
   </aside>    
-</div>
+</main>
 
 <?php
   include '../templates/footer.php';

@@ -1,0 +1,43 @@
+/*------------------------------------*\
+  #Marginal-Icons
+\*------------------------------------*/
+
+.marginal-icon {
+  background: var(--color__highlight);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: $color__white;
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: .5rem;
+
+  @include mq(tiny) {
+    position: absolute;
+    margin: 0;  
+    width: calc(#{$marginal-width} - 1rem);
+    height: calc(#{$marginal-width} - 1rem);
+    left: calc(#{$marginal-width} * -1);
+  }
+  
+  @include mq(medium) {
+    width: calc(#{$marginal-width--medium} - 2rem);
+    height: calc(#{$marginal-width--medium} - 2rem);
+    left: calc(#{$marginal-width--medium} * -1);
+  }
+
+  svg {
+    width: 33%;
+    height: auto;
+  }
+
+  &--section {
+    place-items: top;
+    background: transparent;
+    color: var(--color__highlight); // if icon is outline icon
+
+    svg {
+      width: 80%;
+    }     
+  }    
+}

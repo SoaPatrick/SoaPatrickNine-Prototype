@@ -3,7 +3,7 @@
   include '../templates/header.php';
 ?>
 
-<div class="main main--wide">
+<main class="global-main site">
 
   <nav aria-label="breadcrumb" class="breadcrumbs">
     <span class="breadcrumbs__item breadcrumbs__item--last">Tag Name</span>
@@ -30,7 +30,7 @@
       }
     ?>
   </div>
-</div>
+</main>
 
 <?php
   include '../templates/footer.php';

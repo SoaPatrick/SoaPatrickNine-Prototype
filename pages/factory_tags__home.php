@@ -3,7 +3,7 @@
   include '../templates/header.php';
 ?>
 
-<div class="main">
+<main class="global-main site">
   <h1>Factory tags home</h1>
 </div>
 

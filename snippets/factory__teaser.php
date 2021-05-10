@@ -3,11 +3,11 @@
   $size;
   switch ($number) {
     case "1":
-      $size = '500x500';
+      $size = '640x640';
       $class = 'large';
       break;
     default:
-      $size = '250x250';
+      $size = '640x640';
       $class = 'default';
   }
 ?>  

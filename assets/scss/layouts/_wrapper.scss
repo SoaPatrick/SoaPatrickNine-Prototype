@@ -19,12 +19,12 @@
     margin-left: calc(var(--margin__body) + var(--width__navbar) + var(--margin__body));    
   }
 
-  .main {
+  .global-main {
     flex: 1;
   }
 }
 
-.site-header {
+.global-header {
   position: fixed;
   bottom: 1rem;
   left: 0;

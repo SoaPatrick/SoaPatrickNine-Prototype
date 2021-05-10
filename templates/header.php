@@ -1,4 +1,4 @@
-<div class="site-search" id="search-collapse">
+<div class="global-search" id="search-collapse">
   <form action="../pages/search.php" method="get">
     <label for="search-collapse__input">
       <input type="text" name="s" id="search-collapse__input" placeholder="Find Stuff..." aria-label="Find Stuff..." tabindex="-1">
@@ -8,7 +8,7 @@
 
 
 
-<header class="site-header">
+<header class="global-header">
   <nav class="navigation">
     <a href="home.php" aria-label="Home" class="navigation__link navigation__link--sp">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 894.28 1024">

@@ -3,9 +3,9 @@
   include '../templates/header.php';
 ?>
 
-<div class="main">
+<main class="global-main site">
   <h1>Page</h1>
-</div>
+</main>
 
 <?php
   include '../templates/footer.php';
