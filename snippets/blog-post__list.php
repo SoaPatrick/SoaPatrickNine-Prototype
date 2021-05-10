@@ -10,7 +10,7 @@
         <time datetime="2019-10-07T17:22:17+02:00">October 7, 2019</time>
       </div>                
     </div>  
-    <h1 class="post__title">
+    <h1>
       <a href="../pages/box_single.php" rel="bookmark">How long do we have?</a>
     </h1>
   </header>

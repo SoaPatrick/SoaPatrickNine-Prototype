@@ -10,7 +10,7 @@
         <time datetime="2019-10-07T17:22:17+02:00">October 7, 2019</time>
       </div>                
     </div>    
-    <h1 class="post__title">What’s in store for 2021</h1>
+    <h1>What’s in store for 2021</h1>
   </header>
 
   <div class="post__content">  

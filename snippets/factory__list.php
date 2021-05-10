@@ -10,7 +10,7 @@
         <time datetime="2019-10-07T17:22:17+02:00">February 6, 2019</time>
       </div>                
     </div>
-    <h1 class="post__title">
+    <h1>
       <a href="../pages/factory_single.php" rel="bookmark">Reflection</a>
     </h1>       
   </header>
