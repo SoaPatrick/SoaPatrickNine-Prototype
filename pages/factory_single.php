@@ -13,7 +13,7 @@
   
   <?php include '../snippets/factory__full.php'; ?>
   <?php include '../snippets/navigation_factory__single.php'; ?>  
-  <aside class="post">  
+  <aside class="section">  
     <header>
       <h1>Related Posts</h1>
     </header>
@@ -23,7 +23,7 @@
       }
     ?>
   </aside>
-  <aside class="post">
+  <aside class="section">
     <header>
       <h1>Related Factory Items</h1>
     </header>

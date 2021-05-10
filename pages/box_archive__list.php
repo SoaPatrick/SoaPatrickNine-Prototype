@@ -12,17 +12,18 @@
     <span class="breadcrumbs__item"><a href="home.php">Home</a></span>
   </nav>
 
-  <section class="post">
-    <header>
-      <h1>Year Month</h1>
-    </header>
-  </section>
-  <?php
-    for ($posts = 1; $posts <= 20; $posts++) {
-      include '../snippets/blog-post__list.php';
-    }
-  ?>
-  <?php include '../snippets/navigation_box__archive.php'; ?>
+
+  <header>
+    <h1>Year Month</h1>
+  </header>
+  <div class="site__content">
+    <?php
+      for ($posts = 1; $posts <= 20; $posts++) {
+        include '../snippets/blog-post__list.php';
+      }
+    ?>
+    <?php include '../snippets/navigation_box__archive.php'; ?>
+  </div>
 </main>
 
 <?php

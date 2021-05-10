@@ -41,8 +41,14 @@
   #RSS Feed
 \*------------------------------------*/
 
-.rss-item__description p:last-child {
-  display: none;
+.rss-item__description {
+  p {
+    margin: 0;
+
+    &:last-child {
+      display: none;
+    }
+  }
 }
 
 /*------------------------------------*\
@@ -77,7 +83,7 @@
     max-width: $alignwide;
 
     h1 {
-      margin: 0;      
+      margin-top: 5rem;      
       font-size: clamp(2rem, 10vw, 3rem);     
     }
   }
@@ -91,6 +97,10 @@
 
 .section {
   margin: 4rem 0;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
 }
 
 /*------------------------------------*\
