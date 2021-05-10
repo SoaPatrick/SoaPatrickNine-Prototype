@@ -1,5 +1,5 @@
 <div class="site-search" id="search-collapse">
-  <form action="/" method="get">
+  <form action="../pages/search.php" method="get">
     <label for="search-collapse__input">
       <input type="text" name="s" id="search-collapse__input" placeholder="Find Stuff..." aria-label="Find Stuff..." tabindex="-1">
     </label>

@@ -14,7 +14,7 @@
   </header>
 
   <main>  
-    <p>After a day of <a href="https://www.soapatrick.com/2021/01/2020-in-numbers/" data-type="post" data-id="5696">numbers</a> and a day of <a href="https://www.soapatrick.com/2021/01/some-thoughts-on-2020/" data-type="post" data-id="5701">looking back</a>, it’s time to look ahead of talk about what to expect from 2021. The thing I noticed last year is that I was lacking a clear focus on things. I had all these ideas in my head and I was jumping between them way too frequently and not really seeing it through until the end. So my mantra for this year is:</p>
+    <!-- <p>After a day of <a href="https://www.soapatrick.com/2021/01/2020-in-numbers/" data-type="post" data-id="5696">numbers</a> and a day of <a href="https://www.soapatrick.com/2021/01/some-thoughts-on-2020/" data-type="post" data-id="5701">looking back</a>, it’s time to look ahead of talk about what to expect from 2021. The thing I noticed last year is that I was lacking a clear focus on things. I had all these ideas in my head and I was jumping between them way too frequently and not really seeing it through until the end. So my mantra for this year is:</p>
     <blockquote class="is-style-large"><p>be more focused</p></blockquote>
     <p>And with that in mind, here are a few things I try to be more focused on.</p>
     <h2>SoaPatrickNine</h2>
@@ -32,8 +32,343 @@
     <h2>Photographs</h2>
     <p>Towards the end of last year, I started taking pictures at home again, shooting portraits and I really loved it. I don’t have a real studio with the possibility of having different backdrops and different light setups and there are ideas to build something. But I think for this year the goal has to be to do things more often, get better at it and THEN think about building a studio at home.</p>
     <h2>Streets of Basel</h2>
-    <p>For <a href="https://www.soapatrick.com/2019/01/why-not-a-look-ahead/" data-type="post" data-id="3273">2019</a> I had this plan to walk through every street in Basel and for a time I made good progress on that plan. then everything came to a halt. It wasn’t until 2020 where I continued with this plan but there still is a big part of Basel which is missing. So hopefully I will make steady progress this year and be able to finish my map by December.</p>
-    </main>
+    <p>For <a href="https://www.soapatrick.com/2019/01/why-not-a-look-ahead/" data-type="post" data-id="3273">2019</a> I had this plan to walk through every street in Basel and for a time I made good progress on that plan. then everything came to a halt. It wasn’t until 2020 where I continued with this plan but there still is a big part of Basel which is missing. So hopefully I will make steady progress this year and be able to finish my map by December.</p> -->
+
+    
+    <!-- wp:heading -->
+    <h2>Titles</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading {"level":1} -->
+    <h1>h1 - Lorem ipsum dolor sit amet</h1>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading -->
+    <h2>h2 - Lorem ipsum dolor sit amet</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading {"level":3} -->
+    <h3>h3 - Lorem ipsum dolor sit amet</h3>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading {"level":4} -->
+    <h4>h4 - Lorem ipsum dolor sit amet</h4>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading {"level":5} -->
+    <h5>h5 - Lorem ipsum dolor sit amet</h5>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading {"level":6} -->
+    <h6>h6 - Lorem ipsum dolor sit amet</h6>
+    <!-- /wp:heading -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Paragraphs</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. <strong>Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus</strong>. <em>Suspendisse a nisl sem</em>. <del>Aenean id pellentesque purus</del>. <a href="/">Quisque pharetra est purus</a>, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero&nbsp;pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Lists</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:list -->
+    <ul><li>Lorem ipsum dolor sit amet
+    <ul>
+    <li>consectetur adipiscing elit
+    <ul>
+    <li>Phasellus dictum</li>
+    </ul>
+    </li>
+    </ul>
+    </li><li>magna nec venenatis mollis
+    <ul>
+    <li>lacus nisi fringilla neque</li>
+    </ul>
+    </li><li>id porta nisi lorem in risus.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus</li></ul>
+    <!-- /wp:list -->
+
+    <!-- wp:list {"ordered":true} -->
+    <ol><li>Lorem ipsum dolor sit amet
+    <ol>
+    <li>consectetur adipiscing elit
+    <ol>
+    <li>Phasellus dictum</li>
+    </ol>
+    </li>
+    </ol>
+    </li><li>magna nec venenatis mollis
+    <ol>
+    <li>lacus nisi fringilla neque</li>
+    </ol>
+    </li><li>id porta nisi lorem in risus.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus</li></ol>
+    <!-- /wp:list -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Quote</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:quote -->
+    <blockquote class="wp-block-quote"><p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p><cite>Default Quote</cite></blockquote>
+    <!-- /wp:quote -->
+
+    <!-- wp:quote {"className":"is-style-large"} -->
+    <blockquote class="wp-block-quote is-style-large"><p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p><cite>Large Quote</cite></blockquote>
+    <!-- /wp:quote -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Columns</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:columns -->
+    <div class="wp-block-columns"><!-- wp:column -->
+    <div class="wp-block-column"><!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. </p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:column -->
+
+    <!-- wp:column -->
+    <div class="wp-block-column"><!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium.</p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:column --></div>
+    <!-- /wp:columns -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Images with Caption</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:image {"align":"none","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
+    <figure class="wp-block-image alignnone size-large wp-image-2666 size-medium"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>No Alignment</figcaption></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Left</figcaption></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Right</figcaption></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Center</figcaption></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Images without Caption</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <div class="wp-block-image"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <div class="wp-block-image"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Images with Link &amp; long Caption</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:image {"align":"none","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image alignnone size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <div class="wp-block-image"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <div class="wp-block-image"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
+    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:separator -->
+    <hr class="wp-block-separator"/>
+    <!-- /wp:separator -->
+
+    <!-- wp:heading -->
+    <h2>Images with Link without Caption</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
+    <figure class="wp-block-image size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
+    <div class="wp-block-image"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
+    <div class="wp-block-image"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
+    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:heading -->
+    <h2>Images with different widths</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:image {"id":5821,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image size-large"><img src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>normal width</figcaption></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:image {"align":"wide","id":5821,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image alignwide size-large"><img src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>wide width</figcaption></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:image {"align":"full","id":5821,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image alignfull size-large"><img src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>full width</figcaption></figure>
+    <!-- /wp:image -->
+
+    <!-- wp:paragraph -->
+    <p></p>
+    <!-- /wp:paragraph -->
+  </main>
 
   <footer>
     <div class="tags">

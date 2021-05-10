@@ -27,14 +27,14 @@ h4 {
  */
 
 a {
-  color: var(--color__highlight);
+  color: var(--color__link);
   font-weight: $font-weight__regular;
   text-decoration: none;
   padding-bottom: 1px;
   border-bottom: 1px solid transparent;
 
   &:hover {
-    color: var(--color__highlight);
+    color: var(--color__link);
     border-bottom: 1px solid currentColor;
   }
 
@@ -48,3 +48,73 @@ a {
     border: 0;
   }
 }
+
+/*
+ * HR
+ * -----------------------------------------------------------
+ */
+hr {
+  width: 100%;
+  margin: 2rem 0;
+  border: 1px solid var(--color__highlight);
+}
+
+/*
+ * Lists
+ * -----------------------------------------------------------
+ */
+
+ul,
+ol {
+  margin: 1rem 0;
+  list-style: none;
+  line-height: $line-height__base;
+
+  ul,
+  ol {
+    margin: 0;
+  }
+
+  li::before {
+    color: var(--color__highlight);
+    display: inline-block;
+    width: 1rem;
+    margin-left: -1rem;
+  }
+}
+
+ol {
+  counter-reset: li;
+
+  li {
+    counter-increment: li;
+
+    &::before {
+      content: counter(li);
+      font-weight: $font-weight__regular;
+    }
+  }
+}
+
+// colored bullet list icon
+ul {
+  li::before {
+    font-family: sans-serif;
+    content: "•";
+  }
+}
+
+/*
+ * SVGs
+ * -----------------------------------------------------------
+ */
+
+svg {
+  .primary {
+    fill: var(--color__link--primary);
+  }
+
+  .secondary {
+    fill: var(--color__link--secondary);
+  }        
+}  

@@ -27,7 +27,7 @@
 .site-header {
   position: fixed;
   bottom: 1rem;
-  left: 1rem;
+  left: 0;
 
   @include mq(medium) {
     bottom: 2rem;
