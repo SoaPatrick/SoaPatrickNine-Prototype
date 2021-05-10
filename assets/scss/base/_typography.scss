@@ -39,8 +39,8 @@ a {
   }
 
   &:focus {
-    //outline: $outline;
-  }
+    outline: 3px dotted var(--color__link--primary);
+  }    
 
   &.img-link {
     display: block;

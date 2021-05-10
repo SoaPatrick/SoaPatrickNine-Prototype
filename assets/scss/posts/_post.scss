@@ -60,15 +60,17 @@
     header,
     footer {
       max-width: $aligncontent;
-    } 
-    
-    .img-link {
-      margin: 1rem 0;
     }
 
     .more-link {
       font-family: $font-family__heading;
       white-space: nowrap;
+    }
+
+    .post__content {
+      > * {
+        margin: 1rem 0;
+      }
     }
   }
 }

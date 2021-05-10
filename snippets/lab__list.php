@@ -12,7 +12,7 @@
     </div>    
   </header>
   <div class="post__content">
-    <figure>
+    <figure class="wp-block-image">
       <a href="#">     
         <img src="https://via.placeholder.com/800x450?text=Lab+Item">
       </a>

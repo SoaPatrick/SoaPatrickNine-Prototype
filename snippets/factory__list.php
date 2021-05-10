@@ -15,9 +15,10 @@
     </h1>       
   </header>
   <div class="post__content">         
-    <figure>
-      <img src="https://via.placeholder.com/800x450?text=Factory+Item" data-ll-status="loaded" width="1500" height="1000">
-    </figure>      
+    <figure class="wp-block-image size-large">
+      <img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/>
+      <figcaption>normal width</figcaption>
+    </figure>
   </div>      
   <footer>
     <div class="tags">

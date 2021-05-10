@@ -1,8 +1,27 @@
 figure {
-  margin: 1rem 0;
+  margin: 0;
+}
+
+.wp-block-image { 
+  margin: 2rem 0;
+
+  * {
+    clear: both;
+  }
+
+  a {
+    padding: 0;
+
+    &:hover {
+      border: 0;
+    }
+  }
 
   img {
+    max-width: 100%;
+    height: auto;
     display: block;
+    margin: 0;
     border-radius: 5px;    
   }
 
@@ -14,130 +33,84 @@ figure {
     color: inherit;
   }  
 
-  &.wp-block-image {
 
-    &.alignfull {
+  &.alignfull {
+    @include mq(tiny) {
+      max-width: calc(#{$alignwide} + #{$marginal-width});
+      margin-left: calc(#{$marginal-width} * -1);
+    }
+
+    @include mq(medium) {      
+      max-width: calc(#{$alignwide} + #{$marginal-width--medium});
+      margin-left: calc(#{$marginal-width--medium} * -1);
+    }
+
+    figcaption {
       @include mq(tiny) {
-        max-width: calc(#{$alignwide} + #{$marginal-width});
-        margin-left: calc(#{$marginal-width} * -1);
-      }
+        margin-left: #{$marginal-width};
+      }        
 
-      @include mq(medium) {      
-        max-width: calc(#{$alignwide} + #{$marginal-width--medium});
-        margin-left: calc(#{$marginal-width--medium} * -1);
-      }
-
-      figcaption {
-        @include mq(tiny) {
-          margin-left: #{$marginal-width};
-        }        
-
-        @include mq(medium) {
-          margin-left: #{$marginal-width--medium};
-        }
+      @include mq(medium) {
+        margin-left: #{$marginal-width--medium};
       }
     }
   }
-}
 
-
-
-
-
-
-/*--------------------------------------------------------------
-#Figures
---------------------------------------------------------------*/
-
-.wp-block-image,
-.wp-block-video {
-  * {
-    clear: both;
-  }
-
-}
-
-// Image
-.wp-block-image {
-  > figure {
-    margin: 0;
-  }
-
-  .aligncenter,
-  .alignnone,
-  &.alignleft,
-  &.alignright,
-  &.aligncenter,
-  &.alignnone {
+  .aligncenter {
     float: none;
     width: 100%;
     height: auto;
-    margin-left: 0;
-    margin-right: 0;
-  }
+    text-align: center;
+
+    img {
+      margin: 0 auto;
+    }
+  }  
+
 
   .alignleft,
   .alignright {
     width: auto;
-    margin-top: .5rem;
+    margin-top: .35rem;
     margin-bottom: 1rem;
 
-    &.is-resized {
-      max-width: 150px;
+
+    &.sizr-medium,
+    &.size-large {
+      max-width: calc(40% - .5rem);
     }
 
-    &.size-medium,
-    &.size-large,
-    &.size-full {
-      max-width: 100%;
-      float: none;
-    }
+    &.size-thumbnail {
+      max-width: calc(20% - .5rem);
+    }      
 
     @include mq(small) {
-      &.size-medium {
-        max-width: calc(100% / 3 - 1rem / 2);
-      }
-
-      &.size-full,
+      &.sizr-medium,
       &.size-large {
-        max-width: calc(50% - 1rem / 2);
+        max-width: calc(50% - .5rem);
       }
+
+      &.size-thumbnail {
+        max-width: calc(25% - .5rem);
+      }  
+    }
+
+    figcaption {
+      margin-bottom: 0;
     }
   }
 
-  &.size-medium,
-  &.size-full,
-  &.size-large {    
-    .alignleft {
-      float: left;
-      margin-right: 1rem;
-    }
-
-    .alignright {
-      float: right;
-      margin-left: 1rem;
-    }
+  .alignleft {
+    float: left;
+    margin-right: 1rem;
   }
 
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0;
-  }
-
-  .img-link {
-    img {
-      border: 1px solid var(--color__highlight);
-    }
-
-    &:focus {
-      img {
-        //outline: $outline;
-      }
-    }
-  }
+  .alignright {
+    float: right;
+    margin-left: 1rem;
+  }      
 }
+
 
 // Video
 .wp-block-video {

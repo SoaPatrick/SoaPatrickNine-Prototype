@@ -165,12 +165,12 @@
     <h2>Images with Caption</h2>
     <!-- /wp:heading -->
 
-    <!-- wp:image {"align":"none","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <figure class="wp-block-image alignnone size-large wp-image-2666 size-medium"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>No Alignment</figcaption></figure>
+    <!-- wp:image {"align":"none","id":2475,"width":338,"height":338,"sizeSlug":"full","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
+    <figure class="wp-block-image alignnone size-full is-resized wp-image-2666 size-medium"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475" width="338" height="338"/><figcaption>No Alignment</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Left</figcaption></figure></div>
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignleft size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Left</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -182,7 +182,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Right</figcaption></figure></div>
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignright size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Right</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -198,7 +198,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <div class="wp-block-image wp-image-2666 size-medium"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Center</figcaption></figure></div>
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="aligncenter size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Center</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -214,11 +214,11 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure>
+    <figure class="wp-block-image size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <div class="wp-block-image"><figure class="alignleft size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -230,7 +230,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <div class="wp-block-image"><figure class="alignright size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -246,7 +246,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -261,24 +261,12 @@
     <h2>Images with Link &amp; long Caption</h2>
     <!-- /wp:heading -->
 
-    <!-- wp:image {"align":"none","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image alignnone size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure>
+    <!-- wp:image {"align":"none","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <figure class="wp-block-image alignnone size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure>
     <!-- /wp:image -->
 
-    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
-    <!-- /wp:image -->
-
-    <!-- wp:paragraph -->
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
-    <!-- /wp:paragraph -->
-
-    <!-- wp:paragraph -->
-    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
-    <!-- /wp:paragraph -->
-
-    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <div class="wp-block-image"><figure class="alignleft size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -289,12 +277,24 @@
     <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
     <!-- /wp:paragraph -->
 
+    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <div class="wp-block-image"><figure class="alignright size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <!-- /wp:image -->
+
     <!-- wp:paragraph -->
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
     <!-- /wp:paragraph -->
 
-    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -309,24 +309,12 @@
     <h2>Images with Link without Caption</h2>
     <!-- /wp:heading -->
 
-    <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
-    <figure class="wp-block-image size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure>
+    <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <figure class="wp-block-image size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure>
     <!-- /wp:image -->
 
-    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
-    <div class="wp-block-image"><figure class="alignleft size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
-    <!-- /wp:image -->
-
-    <!-- wp:paragraph -->
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
-    <!-- /wp:paragraph -->
-
-    <!-- wp:paragraph -->
-    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
-    <!-- /wp:paragraph -->
-
-    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
-    <div class="wp-block-image"><figure class="alignright size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <div class="wp-block-image"><figure class="alignleft size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -337,12 +325,24 @@
     <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
     <!-- /wp:paragraph -->
 
+    <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <div class="wp-block-image"><figure class="alignright size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure></div>
+    <!-- /wp:image -->
+
     <!-- wp:paragraph -->
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
     <!-- /wp:paragraph -->
 
-    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"custom"} -->
-    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost:10054/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <!-- wp:paragraph -->
+    <p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
+    <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -354,20 +354,23 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"id":5821,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image size-large"><img src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>normal width</figcaption></figure>
+    <figure class="wp-block-image size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>normal width</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"wide","id":5821,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image alignwide size-large"><img src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>wide width</figcaption></figure>
+    <figure class="wp-block-image alignwide size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>wide width</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"full","id":5821,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image alignfull size-large"><img src="http://localhost:10054/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>full width</figcaption></figure>
+    <figure class="wp-block-image alignfull size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>full width</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
-    <p></p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
     <!-- /wp:paragraph -->
+    <!-- wp:gallery {"ids":[4726,4727,4728,4729,4730,4731],"columns":2,"linkTo":"none","align":"wide"} -->
+    <figure class="wp-block-gallery alignwide columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_02-750x1125.jpg" alt="Colmar Fall 2019" data-id="4726" data-link="https://www.soapatrick.com/colmar_02/" class="wp-image-4726"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_03-750x1125.jpg" alt="Colmar Fall 2019" data-id="4727" data-link="https://www.soapatrick.com/colmar_03/" class="wp-image-4727"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_04-750x500.jpg" alt="Colmar Fall 2019" data-id="4728" data-link="https://www.soapatrick.com/colmar_04/" class="wp-image-4728"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_05-750x500.jpg" alt="Colmar Fall 2019" data-id="4729" data-link="https://www.soapatrick.com/colmar_05/" class="wp-image-4729"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_06-750x1125.jpg" alt="Colmar Fall 2019" data-id="4730" data-link="https://www.soapatrick.com/colmar_06/" class="wp-image-4730"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_07-750x1125.jpg" alt="Colmar Fall 2019" data-id="4731" data-link="https://www.soapatrick.com/colmar_07/" class="wp-image-4731"/></figure></li></ul></figure>
+    <!-- /wp:gallery -->    
   </div>
 
   <footer>
