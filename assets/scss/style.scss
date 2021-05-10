@@ -83,7 +83,7 @@
     max-width: $alignwide;
 
     h1 {
-      margin-top: 5rem;      
+      margin-top: 0;      
       font-size: clamp(2rem, 10vw, 3rem);     
     }
   }
@@ -96,7 +96,7 @@
 }
 
 .section {
-  margin: 4rem 0;
+  margin: 5rem 0;
 
   &:last-of-type {
     margin-bottom: 0;
