@@ -6,11 +6,11 @@
 <main class="global-main site">
 
   <nav aria-label="breadcrumb" class="breadcrumbs">
-    <span class="breadcrumbs__item breadcrumbs__item--last">What’s in store for 2021</span>
-    <span class="breadcrumbs__item"><a href="box_archive__list.php">Year Month</a></span>
-    <span class="breadcrumbs__item"><a href="box_archive__home.php">Storage</a></span>
+    <span class="breadcrumbs__item"><a href="home.php">Home</a></span>
     <span class="breadcrumbs__item"><a href="box_home.php">Box</a></span>
-    <span class="breadcrumbs__item"><a href="home.php">SoaPatrick</a></span>
+    <span class="breadcrumbs__item"><a href="box_archive__home.php">Storage</a></span>
+    <span class="breadcrumbs__item"><a href="box_archive__list.php">Year Month</a></span>
+    <span class="breadcrumbs__item breadcrumbs__item--last">What’s in store for 2021</span>
   </nav>
   
   <?php include '../snippets/blog-post__full.php'; ?>

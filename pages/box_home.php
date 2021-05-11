@@ -6,8 +6,8 @@
 <main class="global-main site">
 
   <nav aria-label="breadcrumb" class="breadcrumbs">
-    <span class="breadcrumbs__item breadcrumbs__item--last">Box</span>
     <span class="breadcrumbs__item"><a href="home.php">Home</a></span>
+    <span class="breadcrumbs__item breadcrumbs__item--last">Box</span>
   </nav>
 
   <header>

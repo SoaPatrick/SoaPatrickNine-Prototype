@@ -6,9 +6,9 @@
 <main class="global-main site">
 
   <nav aria-label="breadcrumb" class="breadcrumbs">
-    <span class="breadcrumbs__item breadcrumbs__item--last">Tag Name</span>
-    <span class="breadcrumbs__item"><a href="factory_home.php">Factory</a></span>
     <span class="breadcrumbs__item"><a href="home.php">Home</a></span>
+    <span class="breadcrumbs__item"><a href="factory_home.php">Factory</a></span>
+    <span class="breadcrumbs__item breadcrumbs__item--last">Tag Name</span>
   </nav>
   
   <header>
