@@ -14,27 +14,6 @@
   </header>
 
   <div class="post__content">  
-    <!-- <p>After a day of <a href="https://www.soapatrick.com/2021/01/2020-in-numbers/" data-type="post" data-id="5696">numbers</a> and a day of <a href="https://www.soapatrick.com/2021/01/some-thoughts-on-2020/" data-type="post" data-id="5701">looking back</a>, it’s time to look ahead of talk about what to expect from 2021. The thing I noticed last year is that I was lacking a clear focus on things. I had all these ideas in my head and I was jumping between them way too frequently and not really seeing it through until the end. So my mantra for this year is:</p>
-    <blockquote class="is-style-large"><p>be more focused</p></blockquote>
-    <p>And with that in mind, here are a few things I try to be more focused on.</p>
-    <h2>SoaPatrickNine</h2>
-    <p>What? A new version already, isn’t SP8 rather new? Well yeah, but I keep tinkering with stuff here constantly and the rule so far has been a new version every year 8 months or so. The thing is, I plan on changing quite a few things, SP8 was a new step and I want to continue this direction and go even further. So I plan on having a real landing page, I plan on incorporating Blender renderings, and I plan on having a Soap Lab section.</p>
-    <figure class="wp-block-image alignfull">
-      <img loading="lazy" src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1619346394" alt="early design idea for SoaPatrickEight" width="1500" height="628">      
-      <figcaption>early design idea for SoaPatrickEight</figcaption>
-    </figure>
-    <p>Now I don’t know the timeframe for all this, but I will hopefully start with sketches and prototypes soon. </p>
-    <h2>Blender</h2>
-    <p>This is kinda connected to SP9 as I mentioned above that I want to incorporate renderings into the design, but that is just one thing I plan on doing this year. Of course, I’d love to get better with Blender, create new exciting things, and maybe even some new animations. I think the most important thing is to keep playing with it and try new things. The web is full of tutorials and just by recreating the things from the tutorials, I learn new things.</p>
-    <h2>Short Films</h2>
-    <p>Last year I finished only one short film (the Blender animated <a href="https://www.soapatrick.com/factory/race/" data-type="factory" data-id="5439">Race</a> scene) but this year I actually want to finish a few things. I think I have to dial it back on the quality control and maybe even on the complexity and just film short ideas and test new stuff. I know I’m saying that for years now, I just hope with my mantra this year I will actually succeed.</p>
-    <p>I have two shorts in my head, one is a rather personal story and the other is just based on an idea, but maybe some other ideas will pop into my head and I will film, edit and mix them within a day. I remember the first idea for <a href="https://www.soapatrick.com/factory/reflection/" data-type="factory" data-id="4346">Reflection</a> was finished within a day, so I know I can do it, just have to actually do it and not write/talk about it.</p>
-    <h2>Photographs</h2>
-    <p>Towards the end of last year, I started taking pictures at home again, shooting portraits and I really loved it. I don’t have a real studio with the possibility of having different backdrops and different light setups and there are ideas to build something. But I think for this year the goal has to be to do things more often, get better at it and THEN think about building a studio at home.</p>
-    <h2>Streets of Basel</h2>
-    <p>For <a href="https://www.soapatrick.com/2019/01/why-not-a-look-ahead/" data-type="post" data-id="3273">2019</a> I had this plan to walk through every street in Basel and for a time I made good progress on that plan. then everything came to a halt. It wasn’t until 2020 where I continued with this plan but there still is a big part of Basel which is missing. So hopefully I will make steady progress this year and be able to finish my map by December.</p> -->
-
-    
     <!-- wp:heading -->
     <h2>Titles</h2>
     <!-- /wp:heading -->
@@ -166,11 +145,11 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"align":"none","id":2475,"width":338,"height":338,"sizeSlug":"full","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <figure class="wp-block-image alignnone size-full is-resized wp-image-2666 size-medium"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475" width="338" height="338"/><figcaption>No Alignment</figcaption></figure>
+    <figure class="wp-block-image alignnone size-full is-resized wp-image-2666 size-medium"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475" width="338" height="338"/><figcaption>No Alignment</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignleft size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Left</figcaption></figure></div>
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignleft size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/><figcaption>Float Left</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -182,7 +161,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignright size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Float Right</figcaption></figure></div>
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="alignright size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/><figcaption>Float Right</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -198,7 +177,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none","className":"wp-image-2666 size-medium"} -->
-    <div class="wp-block-image wp-image-2666 size-medium"><figure class="aligncenter size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/><figcaption>Center</figcaption></figure></div>
+    <div class="wp-block-image wp-image-2666 size-medium"><figure class="aligncenter size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/><figcaption>Center</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -214,11 +193,11 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure>
+    <figure class="wp-block-image size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="alignleft size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <div class="wp-block-image"><figure class="alignleft size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -230,7 +209,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="alignright size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <div class="wp-block-image"><figure class="alignright size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -246,7 +225,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"none"} -->
-    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></figure></div>
+    <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -262,11 +241,11 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"align":"none","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <figure class="wp-block-image alignnone size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure>
+    <figure class="wp-block-image alignnone size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <div class="wp-block-image"><figure class="alignleft size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <div class="wp-block-image"><figure class="alignleft size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -278,7 +257,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <div class="wp-block-image"><figure class="alignright size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <div class="wp-block-image"><figure class="alignright size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -294,7 +273,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
+    <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a><figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing elit</figcaption></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -310,11 +289,11 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <figure class="wp-block-image size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure>
+    <figure class="wp-block-image size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"left","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <div class="wp-block-image"><figure class="alignleft size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure></div>
+    <div class="wp-block-image"><figure class="alignleft size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -326,7 +305,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"right","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <div class="wp-block-image"><figure class="alignright size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure></div>
+    <div class="wp-block-image"><figure class="alignright size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -342,7 +321,7 @@
     <!-- /wp:paragraph -->
 
     <!-- wp:image {"align":"center","id":2475,"sizeSlug":"large","linkDestination":"media"} -->
-    <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png"><img src="https://www.soapatrick.com/wp-content/uploads/2018/02/vox.png" alt="" class="wp-image-2475"/></a></figure></div>
+    <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://via.placeholder.com/500x500"><img src="https://via.placeholder.com/500x500" alt="" class="wp-image-2475"/></a></figure></div>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
@@ -354,22 +333,22 @@
     <!-- /wp:heading -->
 
     <!-- wp:image {"id":5821,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>normal width</figcaption></figure>
+    <figure class="wp-block-image size-large"><img src="https://via.placeholder.com/1500x628" alt="" class="wp-image-5821"/><figcaption>normal width</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"wide","id":5821,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image alignwide size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>wide width</figcaption></figure>
+    <figure class="wp-block-image alignwide size-large"><img src="https://via.placeholder.com/1500x628" alt="" class="wp-image-5821"/><figcaption>wide width</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:image {"align":"full","id":5821,"sizeSlug":"large","linkDestination":"none"} -->
-    <figure class="wp-block-image alignfull size-large"><img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/><figcaption>full width</figcaption></figure>
+    <figure class="wp-block-image alignfull size-large"><img src="https://via.placeholder.com/1500x628" alt="" class="wp-image-5821"/><figcaption>full width</figcaption></figure>
     <!-- /wp:image -->
 
     <!-- wp:paragraph -->
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, magna nec venenatis mollis, lacus nisi fringilla neque, id porta nisi lorem in risus. Phasellus sit amet accumsan augue, ut rhoncus purus. Cras aliquet, massa et tincidunt consectetur, justo tellus sodales augue, ac mattis purus lectus nec massa. Aliquam sagittis eleifend pretium. Duis eleifend, est sed semper scelerisque, odio mauris gravida sapien, non convallis dui metus ut risus. Suspendisse a nisl sem. Aenean id pellentesque purus. Quisque pharetra est purus, ut volutpat leo dignissim sed. Maecenas eu sapien imperdiet, scelerisque metus vel, faucibus libero. Praesent nec elementum libero. Mauris dolor tellus, lacinia ut elementum at, volutpat id justo. Nunc bibendum varius quam nec egestas. Sed tempus, felis quis commodo ullamcorper, ligula enim consectetur elit, in pharetra mi ex quis magna.</p>
     <!-- /wp:paragraph -->
     <!-- wp:gallery {"ids":[4726,4727,4728,4729,4730,4731],"columns":2,"linkTo":"none","align":"wide"} -->
-    <figure class="wp-block-gallery alignwide columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_02-750x1125.jpg" alt="Colmar Fall 2019" data-id="4726" data-link="https://www.soapatrick.com/colmar_02/" class="wp-image-4726"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_03-750x1125.jpg" alt="Colmar Fall 2019" data-id="4727" data-link="https://www.soapatrick.com/colmar_03/" class="wp-image-4727"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_04-750x500.jpg" alt="Colmar Fall 2019" data-id="4728" data-link="https://www.soapatrick.com/colmar_04/" class="wp-image-4728"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_05-750x500.jpg" alt="Colmar Fall 2019" data-id="4729" data-link="https://www.soapatrick.com/colmar_05/" class="wp-image-4729"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_06-750x1125.jpg" alt="Colmar Fall 2019" data-id="4730" data-link="https://www.soapatrick.com/colmar_06/" class="wp-image-4730"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_07-750x1125.jpg" alt="Colmar Fall 2019" data-id="4731" data-link="https://www.soapatrick.com/colmar_07/" class="wp-image-4731"/></figure></li></ul></figure>
+    <figure class="wp-block-gallery alignwide columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://via.placeholder.com/750x1125" alt="Colmar Fall 2019" data-id="4726" class="wp-image-4726"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://via.placeholder.com/750x1125" alt="Colmar Fall 2019" data-id="4727" class="wp-image-4727"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://via.placeholder.com/750x1125" alt="Colmar Fall 2019" data-id="4728" class="wp-image-4728"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://via.placeholder.com/750x1125" alt="Colmar Fall 2019" data-id="4729" class="wp-image-4729"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://via.placeholder.com/750x1125" alt="Colmar Fall 2019" data-id="4730" class="wp-image-4730"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://via.placeholder.com/750x1125" alt="Colmar Fall 2019" data-id="4731" class="wp-image-4731"/></figure></li></ul></figure>
     <!-- /wp:gallery -->    
   </div>
 

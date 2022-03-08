@@ -1,4 +1,7 @@
-<?php include 'templates/head.php';?>
+<?php 
+  $theme = 'default';
+  include 'templates/head.php';
+?>
 
 <div class="wrapper">
   <h1>Prototype Index</h1>

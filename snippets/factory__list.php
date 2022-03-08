@@ -16,7 +16,7 @@
   </header>
   <div class="post__content">         
     <figure class="wp-block-image size-large">
-      <img src="https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1620631183" alt="" class="wp-image-5821"/>
+      <img src="https://via.placeholder.com/1500x628" alt="" class="wp-image-5821"/>
       <figcaption>normal width</figcaption>
     </figure>
   </div>      
